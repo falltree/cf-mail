@@ -1,4 +1,4 @@
-name = "cf-mail"
+name = "royal-lab-e21d"
 main = "src/index.js"
 compatibility_date = "2025-06-04"
 keep_vars = true
